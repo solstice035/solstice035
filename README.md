@@ -39,9 +39,9 @@ An interactive map of the agent estate behind all of this: a hub agent, persiste
 
 ## Built by me, with Claude Code
 
-### [controlsAggregation](https://github.com/solstice035/controlsAggregation)
+### [controls-clustering](https://github.com/solstice035/controls-clustering)
 
-An ML pipeline that clusters financial controls by what they do rather than which organisation wrote them. It draws on ISO 20022, FIBO and FATF vocabularies and strips each organisation's fingerprints out first, so the clusters form around function. This is the closest thing here to my day job.
+Groundwork for grouping financial controls by what they do rather than which organisation wrote them. It pulls different firms' control libraries into one schema, standardises their vocabulary against ISO 20022, FIBO and FATF, and starts stripping out each firm's fingerprints. It's a 2025 prototype: the clustering itself isn't built yet, and the README lists what doesn't work. This is the closest thing here to my day job.
 
 ### [claude_jobhunt](https://github.com/solstice035/claude_jobhunt)
 
