@@ -43,10 +43,6 @@ An interactive map of the agent estate behind all of this: a hub agent, persiste
 
 Groundwork for grouping financial controls by what they do rather than which organisation wrote them. It pulls different firms' control libraries into one schema, standardises their vocabulary against ISO 20022, FIBO and FATF, and starts stripping out each firm's fingerprints. It's a 2025 prototype: the clustering itself isn't built yet, and the README lists what doesn't work. This is the closest thing here to my day job.
 
-### [claude_jobhunt](https://github.com/solstice035/claude_jobhunt)
-
-A CV-to-role matching engine: hybrid BM25 and embedding search, cross-encoder re-ranking, and the ESCO skills taxonomy for skill-gap analysis.
-
 ## Elsewhere
 
 [LinkedIn](https://www.linkedin.com/in/nicksolly)
